@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+@import "__top_text/__top_text";
+@import "__box/__box";
+@import "__box/__big_text/__big_text";
+@import "__box/__button/__button"

@@ -1,0 +1,8 @@
+&__twopictures{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: space-between;
+}
+@import "__lft/__lft";
+@import "__right/__right";

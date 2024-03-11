@@ -1,0 +1,31 @@
+&__bigpct{
+    width: 1024px;
+    height: 750px;
+    background-image:url("img/pct1.svg") ;
+}
+&__bigpct > h1{
+    font-size: 40px;
+    margin-left: 40px;
+    font-weight:300;
+    color: white;
+    max-width: 400px;
+}
+&__bigpct > p{
+    font-weight:bold;
+    font-size: 20px;
+    margin-left: 40px;
+    color: white;
+    font-weight: 300;
+    max-width: 300px;
+}
+.pre_footer__btn4{
+    background-color: #A05B4E;
+    font-size: 15px;
+    margin-left: 40px;
+    color: white;
+    font-weight: 200;
+    padding:7px 23px 7px 23px;
+    border-radius: 25px;
+    border-color: #A05B4E;
+    box-shadow: none;
+}

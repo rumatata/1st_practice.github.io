@@ -1,0 +1,9 @@
+.kartochki{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0 20px 0 20px;
+    @import "__text/__text";
+    @import "__photo/__photo";
+}
+

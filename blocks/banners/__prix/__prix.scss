@@ -1,0 +1,10 @@
+&__prix{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    max-width: 1024px - 40;
+}
+
+@import "__kart1/__kart1";
+@import "__slova1/__slova1";

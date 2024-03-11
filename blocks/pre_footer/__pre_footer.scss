@@ -1,0 +1,11 @@
+.pre_footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    @import "__bigpct/__bigpct";
+    @import "__textline/__textline";
+    @import "__twopictures/__twopictures";
+}
+
+

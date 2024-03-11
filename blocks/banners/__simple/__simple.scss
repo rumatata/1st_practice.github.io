@@ -1,0 +1,10 @@
+&__simple{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    max-width: 1024px - 40;
+}
+
+@import "__kart3/__kart3";
+@import "__slova3/__slova3";

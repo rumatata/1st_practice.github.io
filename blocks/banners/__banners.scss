@@ -1,0 +1,11 @@
+.banners{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    @import "__prix/__prix";
+    @import "__expertise/__expertise";
+    @import "__simple/__simple";
+        
+}
+
+

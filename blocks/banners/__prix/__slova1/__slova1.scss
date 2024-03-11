@@ -1,0 +1,19 @@
+&__slova1{
+    width: 492px;
+}
+
+&__slova1 > h1{
+    font-weight:bold;
+    font-size: 52px;
+    margin-left: 40px;
+}
+
+&__slova1 > p{
+    font-size: 22px;
+    max-width: 240px;
+    margin-left: 40px;
+}
+
+.banners__btn1{
+    @extend %banners_btn
+}

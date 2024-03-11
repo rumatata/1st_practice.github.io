@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: Roboto;
+}
+%button_style{
+    border-radius: 35px;
+    border: 0;
+    background-color: #A05B4E;
+    color: white;
+    padding: 10px 17px 10px 17px;
+    margin-top: 10px;
+}
+
+%banners_btn{
+    margin-left: 40px;
+    border-radius: 35px;
+    border: 0;
+    background-color: #A05B4E;
+    color: white;
+    padding: 10px 17px 10px 17px;
+    margin-top: 10px;
+}
+
+@import "blocks/header/__header";
+@import "blocks/banners/__banners";
+@import "blocks/footer/__footer";
+@import "blocks/kartochki/__kartochki";
+@import "blocks/pre_footer/__pre_footer";
